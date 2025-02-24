@@ -41,7 +41,7 @@
 
 - 🌌 **[Solar System 3D](https://github.com/Yoann-CH/system-solaire-3d)** — A 3D website where you can navigate the solar system in a spaceship *(JavaScript)*  
 - 🧩 **[Puzzleify](https://github.com/imxale/puzzleify)** — An NPM package for creating interactive puzzles *(JavaScript)*  
-- 🦄 **[Yoloweb](https://github.com/Yoann-CH/yoloweb)** — A fun website filled with popular internet memes *(JavaScript)*  
+- 🦄 **[Yoloweb](https://github.com/CanarDev/yoloweb)** — A fun website filled with popular internet memes *(JavaScript)*  
 - 💸 **[Swift](https://github.com/Yoann-CH/swift)** — A personal finance management app built with Swift *(Swift)*  
 
 
