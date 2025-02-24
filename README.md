@@ -31,6 +31,12 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yoann-CH&theme=radical&no-bg=true&margin-w=10)
+
+---
+
 ## 🛠️ Highlighted Projects
 
 - 🌌 **[Solar System 3D](https://github.com/Yoann-CH/system-solaire-3d)** — 3D simulation of the solar system *(JavaScript)*  
@@ -45,7 +51,6 @@
 ![Yoann's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yoann-CH&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoann-CH&layout=compact&theme=radical)  
 ![Yoann's GitHub Streak](https://streak-stats.demolab.com/?user=Yoann-CH&theme=radical)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yoann-CH&theme=radical)
 
 ---
 
@@ -53,7 +58,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 
 ---
 
@@ -67,3 +71,5 @@
 ---
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Yoann-CH&style=flat-square&color=brightgreen)
+
+🚀 _“Code, innovate, and push boundaries — that's the spirit!”_
